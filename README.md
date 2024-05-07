@@ -21,3 +21,27 @@ This Java project, integrated with Gradle, offers an API tailored for railway ro
 ## ☝️ How to update dependencies
 
 * Gradle ([releases](https://gradle.org/releases/)): `./gradlew wrapper --gradle-version=WANTED_VERSION --distribution-type=bin`
+  
+## 🏁 Test Api
+
+1. Example request
+
+{
+    "graph":"AB5,BC4,CD8,DC8,DE6,AD5,CE2,EB3,AE7"
+}
+
+Response
+{
+    "answers": [
+        "Salida #1: 9",
+        "Salida #2: 5",
+        "Salida #3: 13",
+        "Salida #4: 22",
+        "Salida #5: NO HAY TAL RUTA",
+        "Salida #6: 2",
+        "Salida #7: 3",
+        "Salida #8: 9",
+        "Salida #9: 9",
+        "Salida #10: 7"
+    ]
+}
