@@ -3,7 +3,7 @@
 
 > ⚡ Start your Java projects as fast as possible
 
-## ℹIntroduction
+## Introduction
 
 This Java project, integrated with Gradle, offers an API tailored for railway route management and tracking. It features endpoints enabling users to compute distances between cities, enumerate routes meeting specific criteria, and conduct various other railway-related operations.
 
@@ -24,7 +24,7 @@ This Java project, integrated with Gradle, offers an API tailored for railway ro
   
 ## 🏁 Test Api
 
-1. Example request
+Example request
 
 {
     "graph":"AB5,BC4,CD8,DC8,DE6,AD5,CE2,EB3,AE7"
