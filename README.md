@@ -1,10 +1,9 @@
 
-# ☕🚀 Railway API Track Management
-
+# 🚀 Railway API Track Management
 
 > ⚡ Start your Java projects as fast as possible
 
-## ℹ️ Introduction
+## ℹIntroduction
 
 This Java project, integrated with Gradle, offers an API tailored for railway route management and tracking. It features endpoints enabling users to compute distances between cities, enumerate routes meeting specific criteria, and conduct various other railway-related operations.
 
