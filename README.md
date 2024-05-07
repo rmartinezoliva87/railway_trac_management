@@ -31,6 +31,7 @@ This Java project, integrated with Gradle, offers an API tailored for railway ro
 }
 
 Response
+
 {
     "answers": [
         "Salida #1: 9",
